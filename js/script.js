@@ -1,9 +1,5 @@
 "use strict";
 
-console.log('New feature');
-
-
-
 
 // 1
 // let userName = prompt("Как тебя зовут?");
@@ -14,11 +10,11 @@ console.log('New feature');
 
 
 
-2
-let firstNumber = prompt("Введите первое число");
-let secondNumber = prompt("Введите второе число");
-let sum = +firstNumber + +secondNumber;
-alert(`${firstNumber} + ${secondNumber} = ${sum}`);
+// 2
+// let firstNumber = prompt("Введите первое число");
+// let secondNumber = prompt("Введите второе число");
+// let sum = +firstNumber + +secondNumber;
+// alert(`${firstNumber} + ${secondNumber} = ${sum}`);
 
 // let firstNumber = prompt("Введите первое число");
 // let secondNumber = prompt("Введите второе число");
