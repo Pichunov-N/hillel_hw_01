@@ -1,5 +1,6 @@
 "use strict";
 
+console.log('new feature')
 
 // 1
 // let userName = prompt("Как тебя зовут?");
